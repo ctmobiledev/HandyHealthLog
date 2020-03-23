@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data_types_array">
+        <item>BP</item>
+        <item>EXERC</item>
+        <item>GLU</item>
+        <item>OTHER</item>
+        <item>RX</item>
+        <item>TEMP</item>
+        <item>WGT</item>
+    </string-array>
+</resources>
