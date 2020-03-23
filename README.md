@@ -1,8 +1,8 @@
 # HandyHealthLog
  HandyHealthLog App For Android (Native)
  
- Version 1.0.0\n
- Charles Tatum II\n
+ Version 1.0.0\r
+ Charles Tatum II\r
  Copyright (c) 2020
  
  Handy Health Log is a native Android app, a database for users wishing to keep a diary, journal or running list of health-related 
